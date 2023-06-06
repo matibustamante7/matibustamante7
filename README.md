@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Matias Bustamante</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h1 align="center">Hola 👋, soy Matias Bustamante</h1>
+<h3 align="center">Desarrolador Full Stack de Argentina</h3>
 
 
 
