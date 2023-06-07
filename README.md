@@ -24,3 +24,5 @@ No solamente encuentro placer en la programación, sino que verdaderamente me ap
 <p align="left">
 <a href="https://linkedin.com/in/matias-bustamante-90ba9b274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matias-bustamante-90ba9b274/" height="30" width="40" /></a>
 <a href="https://instagram.com/matibustamante3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matibustamante3" height="30" width="40" /></a></p>
+
+<b>Email:</b> <p>matias.dev7@gmail.com</p>
